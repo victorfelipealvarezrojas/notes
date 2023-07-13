@@ -4,7 +4,7 @@ body {
   background-color: rgba(53, 54, 58, 0.8);
 }
 
-body > h1 {
+header > h1 {
   background-color: #d7d7d7;
   padding: 10px;
   border-radius: 30px;
